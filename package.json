@@ -1,0 +1,14 @@
+{
+  "name": "fictional-university",
+  "version": "1.0.0",
+  "description": "Packages for Wordpress Website of Fictional University",
+  "main": "index.js",
+  "scripts": {
+    "version": "gulp --version"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-cli": "^2.0.1"
+  }
+}
